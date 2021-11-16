@@ -4,7 +4,7 @@
   "description": "",
   "main": "handler.js",
   "dependencies": {
-    "aws-sdk": "^2.382.0",
+    "aws-sdk": "^2.814.0",
     "bluebird": "^3.5.3",
     "serverless-websockets-plugin": "^1.0.0",
     "node-fetch": "^2.3.0",
